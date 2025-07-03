@@ -1,0 +1,52 @@
+## Node/Express Backend with MongoDB (Mongoose)
+
+PetSaga is a transformative app aimed at creating unified, intelligent and highly personalized pet care ecosystem.
+
+---
+
+## Prerequisites
+
+- [Node.js](https://nodejs.org/) (v18 or higher recommended)  
+- [MongoDB](https://www.mongodb.com/) installed locally
+---
+
+## Setup Instructions
+
+### 1. Clone the repository
+
+Open your terminal and run:
+
+```bash
+git clone https://github.com/DurgaChowdary/petsaga-core.git
+cd petsaga-core
+```
+
+### 2. Install Node modules
+
+Install all dependencies required by the app:
+
+```bash
+npm install
+```
+
+### 3. Set up MongoDB
+
+1. Download and install MongoDB Community Edition from mongodb.com.
+
+2. Start the MongoDB server (usually runs on mongodb://localhost:27017 by default).
+
+3. Use a database name of your choice (e.g., your-db-name) in your connection string.
+
+Example connection string:
+
+```bash
+mongodb://localhost:27017/your-db-name
+```
+
+### 4. Run the app
+
+Start the server with:
+
+```bash
+npm start
+```
