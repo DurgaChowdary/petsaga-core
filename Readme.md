@@ -1,4 +1,15 @@
-# Node/Express Backend with MongoDB (Mongoose)
+<a id="readme-top"></a>
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![Unlicense License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
+
+## Node/Express Backend with MongoDB (Mongoose)
 
 PetSaga is a transformative app aimed at creating unified, intelligent and highly personalized pet care ecosystem.
 
